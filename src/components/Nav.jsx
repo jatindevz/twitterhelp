@@ -5,13 +5,13 @@ const Nav = () => {
     // Social links data
     const socialLinks = [
         {
-            href: "https://github.com/yourusername",
+            href: "https://github.com/jatindevz/twitterhelp",
             label: "GitHub profile",
             icon: <FaGithub size={20} />,
             color: "hover:text-violet-400"
         },
         {
-            href: "https://twitter.com/yourusername",
+            href: "https://x.com/jatinnvw",
             label: "X (Twitter) profile",
             icon: <FaXTwitter size={20} />,
             color: "hover:text-sky-400"
