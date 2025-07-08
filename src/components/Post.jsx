@@ -16,7 +16,8 @@ const Post = ({ question }) => {
             '/cat2.jpeg',
             '/cat3.jpeg',
             '/ciel-kitty.jpeg',
-            '/angel-cat.jpeg'
+            '/angel-cat.jpeg',
+            '/t.jpeg'
         ];
         const catUsernames = ["Meowz", "Pawzi", "Mitti", "Furlo", "Whsky"];
 
