@@ -12,11 +12,11 @@ const Post = ({ question }) => {
     const [isLiked, setIsLiked] = useState(false);
     const { randomColor, randomcat } = useMemo(() => {
         const colors = [
-            '/public/Meyrin.jpeg',
-            '/public/cat2.jpeg',
-            '/public/cat3.jpeg',
-            '/public/ciel-kitty.jpeg',
-            '/public/angel-cat.jpeg'
+            '/Meyrin.jpeg',
+            '/cat2.jpeg',
+            '/cat3.jpeg',
+            '/ciel-kitty.jpeg',
+            '/angel-cat.jpeg'
         ];
         const catUsernames = ["Meowz", "Pawzi", "Mitti", "Furlo", "Whsky"];
 
